@@ -18,7 +18,7 @@
   * Secure Multi-Party Computation
 
 ### HONORS and AWARDS
-* ABB scholarship, CNY 50,000 2018-2021
+* ABB scholarship,  2018-2021
 * China Aeromodelling Design Challenge-Solar-powered air plane, The first prize team,   2019
 * The Mathematical Contest in Modeling, Honorable Mention,  2020
 * Ti Cup - Shaanxi Province College Student Electronic Design Competition, The second prize, 2020
