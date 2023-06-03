@@ -27,8 +27,6 @@
 * [1] **Xiaoyang Wang**, Xie Haipeng, Lingfeng Tang, Chen Chen and Zhaohong Bie, Decentralized Privacy-Preserving Electricity Theft Detection for Distribution System Operators. [Submitted to IEEE Transactions on Smart Grid]
 * [2] Lingfeng Tang, Haipeng Xie, **Xiaoyang Wang** and Zhaohong Bie, Privacy-Preserving Knowledge Sharing for Few-Shot Building Energy Prediction: A Federated Learning Approach, Applied Energy, 2023, 337, 120860, doi: https://doi.org/10.1016/j.apenergy.2023.120860.
 
-### Working Papers
-
 ### Technical Skills
 * Programming
   * Python, MATLAB, markdown, and LaTeX.
